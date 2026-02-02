@@ -135,7 +135,7 @@ Your OS should serve you, not the vendor.
 
 ---
 
-> **DISCLAIMER:**  
+> **⚠️DISCLAIMER:**  
 > This repository is for educational and research purposes. The tools listed here are powerful. Users are responsible for adhering to their local laws and regulations regarding copyright and network usage.
 
 > **MAINTAINED BY:**  
